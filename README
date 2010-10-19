@@ -1,10 +1,17 @@
-== Release Version 0.01 ==
+== Release Version 0.02 ==
 
-1. Double click on the bundle to add it to your textmate installation.
+ ++ Installation ++
 
-2. This adds a Squiz - HTML5 template to your File - New from Template selection and Adds "Squiz" to your list of bundles.
+mkdir -p /Library/Application\ Support/TextMate/Bundles
+cd !$
+git clone git://github.com/justincavery/Squiz-Textmate-Bundles.git Squiz.tmbundle
+osascript -e 'tell app "TextMate" to reload bundles'
 
-3. Once you have created your template you can activate any of the bundle options by typing the activation word and pressing tab.
+If the last step doesn't activate the bundle for you, navigate to ~/Library/Application Support/TextMate/Bundles and double click on the Squiz.tmbundle 
+
+This adds a Squiz - HTML5 template to your File - New from Template selection and Adds "Squiz" to your list of bundles.
+
+Once you have created your template you can activate any of the bundle options by typing the activation word and pressing tab.
 
  = Activation Words =
 
