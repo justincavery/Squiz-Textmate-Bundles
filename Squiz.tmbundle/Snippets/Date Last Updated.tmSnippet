@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;MySource_AREA id_name="page_modified" design_area="datetime"&gt;
+	&lt;MySource_SET name="datetime" value="updated" /&gt;
+&lt;/MySource_AREA&gt;</string>
+	<key>name</key>
+	<string>Date Last Updated</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>asset</string>
+	<key>uuid</key>
+	<string>CB371E9D-F2DA-4A9C-BDC0-D7535E4CEA8A</string>
+</dict>
+</plist>

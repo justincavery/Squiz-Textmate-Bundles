@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;MySource_PRINT id_name="__global__" var="current_user" attr="last_name" /&gt;</string>
+	<key>name</key>
+	<string>Current User Last Name</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>user</string>
+	<key>uuid</key>
+	<string>C1FFF912-FF04-460E-B848-E6EF725E4482</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;MySource_AREA id_name="back_to_pages" design_area="access_history"&gt; 
+	&lt;MySource_SET name=”asset_types” value=”page_standard” /&gt; 
+		&lt;ul id="history"&gt;
+		&lt;MySource_ASSET&gt;
+			&lt;li&gt;&lt;a href="&lt;MySource_PRINT var=“asset_link” /&gt;" title="&lt;MySource_PRINT
+var=“asset_short_name” /&gt;"&gt;&lt;MySource_PRINT var=“asset_short_name” /&gt;&lt;/a&gt;&lt;/li&gt; 
+		&lt;/MySource_ASSET&gt;
+		&lt;/ul&gt;
+&lt;/MySource_AREA&gt;</string>
+	<key>name</key>
+	<string>History</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>menu</string>
+	<key>uuid</key>
+	<string>91037980-1BB6-49F6-AC9A-50D64C902429</string>
+</dict>
+</plist>

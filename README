@@ -1,0 +1,30 @@
+== Release Version 0.01 ==
+
+1. Double click on the bundle to add it to your textmate installation.
+
+2. This adds a Squiz - HTML5 template to your File - New from Template selection and Adds "Squiz" to your list of bundles.
+
+3. Once you have created your template you can activate any of the bundle options by typing the activation word and pressing tab.
+
+ = Activation Words =
+
+menu
+body
+site
+user
+asset
+body
+nested
+img
+css
+
+
+
+ = Next Steps =
+
+Add reset styles and jquery google api's to the head
+Create a "mysource_files" folder as part of the template creation
+
+ = Comments =
+
+If you have any comments or suggestions you can email me at justincavery@gmail.com

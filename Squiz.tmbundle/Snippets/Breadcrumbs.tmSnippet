@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;MySource_AREA id_name="page_lineage" design_area="asset_lineage"&gt;
+	&lt;ul id="breadcrumbs"&gt;
+	&lt;MySource_ASSET&gt;
+		&lt;li&gt;&lt;a href="&lt;MySource_PRINT var="asset_link" /&gt;"&gt;&lt;MySource_PRINT var="asset_name" /&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;/MySource_ASSET&gt;
+	&lt;/ul&gt;
+&lt;MySource_DIVIDER&gt;&amp;nbsp;&amp;gt;&amp;nbsp;&lt;/MySource_DIVIDER&gt;
+&lt;/MySource_AREA&gt;</string>
+	<key>name</key>
+	<string>Breadcrumbs</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>menu</string>
+	<key>uuid</key>
+	<string>EE3426D5-850A-47D2-ABC4-9EE49943AA2B</string>
+</dict>
+</plist>

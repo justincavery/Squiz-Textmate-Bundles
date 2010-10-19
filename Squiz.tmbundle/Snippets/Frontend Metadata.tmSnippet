@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;MySource_AREA id_name="metadata" design_area="metadata" /&gt;</string>
+	<key>name</key>
+	<string>Frontend Metadata</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>site</string>
+	<key>uuid</key>
+	<string>66179F55-4E85-4FD8-93F6-4299CD7ED8DD</string>
+</dict>
+</plist>

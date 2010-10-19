@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;MySource_AREA id_name="add_name_here" design_area="nest_content" print="no"&gt;
+	&lt;MySource_SET name="type_codes" value="page" /&gt;
+&lt;/MySource_AREA&gt;</string>
+	<key>name</key>
+	<string>Nested Content Area Hidden</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>nested</string>
+	<key>uuid</key>
+	<string>68621B51-A0F5-4A62-8C0F-A9B46E00AF47</string>
+</dict>
+</plist>

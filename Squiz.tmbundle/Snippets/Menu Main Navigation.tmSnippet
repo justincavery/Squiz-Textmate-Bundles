@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;MySource_AREA id_name="main_navigation" design_area="menu_normal"&gt; 
+	&lt;MySource_SET name="level" value="top"/&gt; 
+	&lt;MySource_SET name="prefix_with_divider" value="false"/&gt;
+	&lt;MySource_SET name="suffix_with_divider" value="false"/&gt;
+	&lt;MySource_SET name="show_subs" value="false" /&gt;
+		&lt;ul&gt;
+		&lt;MySource_ASSET&gt;
+			&lt;li&gt;&lt;a href="&lt;MySource_PRINT var='asset_link' /&gt;"&gt;&lt;MySource_PRINT var="asset_attribute_short_name"/&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;/MySource_ASSET&gt;
+		&lt;/ul&gt;
+&lt;/MySource_AREA&gt;</string>
+	<key>name</key>
+	<string>Menu Main Navigation</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>menu</string>
+	<key>uuid</key>
+	<string>8CFB2CE1-676F-4F20-9344-65448AF238F9</string>
+</dict>
+</plist>

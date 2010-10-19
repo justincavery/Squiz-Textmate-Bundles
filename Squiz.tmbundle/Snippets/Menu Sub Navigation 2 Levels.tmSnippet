@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;MySource_AREA id_name="sub_navigation" design_area="menu_normal"&gt;
+	&lt;MySource_SET name="level" value="sub"/&gt;
+	&lt;MySource_SET name="show_subs" value="on_current"/&gt; 
+		&lt;ul&gt;
+		&lt;MySource_ASSET&gt; 
+			&lt;li&gt;&lt;a href="&lt;MySource_PRINT var="asset_link" /&gt;"&gt;&lt;MySource_PRINT var="asset_attribute_short_name"/&gt;&lt;/a&gt;
+			&lt;MySource_SUB design_area="menu_normal"&gt;
+			&lt;ul&gt;
+			&lt;MySource_ASSET&gt; 
+				&lt;li&gt;&lt;a href="&lt;MySource_PRINT var="asset_link" /&gt;"&gt;&lt;MySource_PRINT var="asset_attribute_short_name"/&gt;&lt;/a&gt;&lt;/li&gt;
+			&lt;/MySource_ASSET&gt;
+			&lt;/ul&gt; 
+			&lt;/MySource_SUB&gt;
+		&lt;/li&gt;
+		&lt;/MySource_ASSET&gt; 
+		&lt;/ul&gt;
+&lt;/MySource_AREA&gt;</string>
+	<key>name</key>
+	<string>Menu Sub Navigation 2 Levels</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>menu</string>
+	<key>uuid</key>
+	<string>4736B733-940B-462F-BE78-F080CB6DA38C</string>
+</dict>
+</plist>

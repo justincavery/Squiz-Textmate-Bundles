@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;MySource_AREA id_name="layout" design_area="linked_css" &gt;
+	&lt;MySource_SET name="tag_type" value="link_tag" /&gt; 
+	&lt;MySource_SET name="media" value="all" /&gt;
+&lt;/MySource_AREA&gt;</string>
+	<key>name</key>
+	<string>CSS Linked</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>css</string>
+	<key>uuid</key>
+	<string>A32DB4AD-8DFA-4128-B4B4-F5DE817FAA10</string>
+</dict>
+</plist>

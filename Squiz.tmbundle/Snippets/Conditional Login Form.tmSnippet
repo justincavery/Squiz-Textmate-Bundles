@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;MySource_AREA id_name="login_form" design_area="login_form"&gt;
+	&lt;MySource_PRINT var="system_messages" /&gt;&lt;br /&gt;
+		&lt;MySource_LOGIN_SECTION&gt;
+			&lt;MySource_PRINT var="form_open" /&gt; 
+				Not currently logged in&lt;br /&gt; 
+				Username: &lt;MySource_PRINT var="username_box" size="10" class="sq-data" /&gt;&lt;br /&gt; 
+				Password: &lt;MySource_PRINT var="password_box" size="10" class="sq-data" /&gt;&lt;br /&gt; 
+				&lt;MySource_PRINT var="submit_button" value="Login" class="sq-data" /&gt; 
+			&lt;MySource_PRINT var="form_close" /&gt;
+		&lt;/MySource_LOGIN_SECTION&gt; 
+		&lt;MySource_LOGOUT_SECTION&gt;
+			&lt;MySource_PRINT var="form_open" /&gt; 
+				Currently logged in as: &lt;MySource_PRINT id_name="__global__" var="current_user" default="[Not Logged In]" attr="name" /&gt; &lt;br /&gt; 
+				&lt;MySource_PRINT var="submit_button" value="Logout" class="sq-backend-data" /&gt; 			&lt;MySource_PRINT var="form_close" /&gt;
+		&lt;/MySource_LOGOUT_SECTION&gt;
+&lt;/MySource_AREA&gt;</string>
+	<key>name</key>
+	<string>Conditional Login Form</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>site</string>
+	<key>uuid</key>
+	<string>696E7414-74A5-48A4-8BF0-7DA726C6C0FC</string>
+</dict>
+</plist>

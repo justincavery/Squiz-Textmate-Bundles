@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;MySource_AREA id_name="body" design_area="body" /&gt;</string>
+	<key>name</key>
+	<string>Body</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>body</string>
+	<key>uuid</key>
+	<string>209EAD94-283E-4766-B905-7DF7BFB73FC6</string>
+</dict>
+</plist>
